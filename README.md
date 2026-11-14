@@ -36,7 +36,7 @@ The response described in the simulation included isolating and quarantining the
 - * [**Executive report**](docs/executive-incident-report.md) – leadership-facing report
 - * [**Lessons Learned**](docs/lessons-learned.md) – control gaps and recommendations
 - ![Ransomware notice](evidence/ransom-notice.png)
-- ![Incident documentation](evidence/incident-documentation-facts)
+- ![Incident documentation](evidence/incident-documentation-facts.png)
 - * [**Certificates earned**](certificates/Project-completion-certificate.pdf) – certificate issued
 - * [**Project Evaluation Report**](certificates/Project-evaluation-report.pdf)
 
