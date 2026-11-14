@@ -1,5 +1,16 @@
 # Incident Overview
 
+## Evidence Inventory (Simulation)
+
+| Evidence Type | Description | Status |
+|---|---|---|
+| Scenario narrative | Phishing → malware → credential theft → impossible travel → ransomware | Provided by platform |
+| Sign-in detail | Rotterdam, 02:14 | Provided |
+| Access scope | HR, Procurement, Finance, Engineering | Provided |
+| Containment actions | Endpoint isolation, firewall block, password reset | Provided |
+| Malware family / C2 / exact encryption method | Not supplied by scenario | Not available – do not invent |
+| Confirmed exfiltration volume / affected record count | Not supplied | Not available |
+
 **Organisation:** Falkenstein Automotive GmbH (fictional)  
 **Incident:** Phishing-led endpoint and identity compromise followed by ransomware  
 **Affected identity:** Employee identity (name withheld)  
