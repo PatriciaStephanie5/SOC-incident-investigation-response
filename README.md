@@ -43,10 +43,10 @@ The response described in the simulation included isolating and quarantining the
 ## Frameworks
 The Cyber Kill Chain explains the attack's progression. MITRE ATT&CK organises observed or suspected behaviours into tactics and techniques to guide hunting. GDPR Article 33 informs the breach-notification exercise. The NIST incident-response lifecycle provides a reference for response phases.
 
-ATT&CK mappings must be labelled as observed, scenario-indicated or hypothesis. Do not assign exact technique IDs without supporting evidence.
+Technique IDs were assigned only where supported by scenario evidence
 
 ## Limitations
-The supplied scenario does not establish the malware family, persistence method, command-and-control infrastructure, exfiltration volume, exact encryption method, number of affected records or operational downtime. Do not invent these details.
+Specific details such as malware family and exfiltration volume were outside the scope of the provided scenario
 
 ## Author
 **Patricia Stephanie** · [GitHub profile](https://github.com/PatriciaStephanie5)
